@@ -1,0 +1,22 @@
+.country {
+    border: 2px solid aqua;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+button {
+    background-color:honeydew;
+    padding: 16px;
+    color: black;
+    border: none;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.visited {
+    background-color: bisque;
+    color: black;
+}
